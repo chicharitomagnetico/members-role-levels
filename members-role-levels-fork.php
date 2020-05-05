@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Members - Role Levels
+ * Plugin Name: Members - Role Levels - Fork
  * Plugin URI:  http://themehybrid.com/plugins/members
  * Description: Exposes the old user levels system, which fixes the WordPress author drop-down bug when users don't have a role with one of the assigned levels.
  * Version:     1.0.0
