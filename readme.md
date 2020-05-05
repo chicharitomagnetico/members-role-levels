@@ -1,4 +1,6 @@
-# Members - Role Levels
+# Members - Role Levels - Fork
+
+Since the Members Plugin was Fked'up by MemberPress this is a Fork of the original Justin Tadlock plugin, I've changed the name so it doesn't update automatically to the MemberPress version
 
 Members - Role Levels is an add-on plugin for the [Members plugin](http://themehybrid.com/plugins/members) that provides access to the old user levels system.
 
